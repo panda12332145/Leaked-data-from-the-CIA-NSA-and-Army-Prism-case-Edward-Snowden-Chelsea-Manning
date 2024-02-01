@@ -245,3 +245,4 @@ Download
 the data link is in mediafire and is encrypted in sha1
 https://md5decrypt.net/en/Sha1/
 aef825820364171e69d29a8c6e427800aa2e657d
+https://www.mediafire.com/file/p1qczo37wjf45ju/Vazados.rar/file
