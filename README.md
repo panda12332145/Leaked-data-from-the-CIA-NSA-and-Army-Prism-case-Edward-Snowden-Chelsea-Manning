@@ -18,7 +18,7 @@ May this call for transparency be seen as an opportunity to enhance privacy, sec
 
 Sincerely,
 
-[X86Master]
+[X86BinaryGhost]
 
 ==============================================================================================================================
 
